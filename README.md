@@ -6,11 +6,9 @@
 
 ### A little more about me...
 
-```javascript
-const emily = {
-  pronouns: "she" | "her",
-  code: [Python],
-}
+```python
+def about_me():
+  name = "Emily"
 ```
 
 <p align="center">
