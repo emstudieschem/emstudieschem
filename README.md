@@ -11,14 +11,13 @@ def about_me():
   name  = "Emily"
   age = 23
   education = {"QUT BSc", "QUT BSc (Hons)"}
-  hobbies = ["reading", "D&D", "tap dancing", "spooky"]
+
+vice = "Chronic Gum Chewer"
 
 human_languages = {
   "native" : "english"
   "learning" : "german"
 }
-
-programming_languages = ["Python"]
 ```
 
 <p align="center">
